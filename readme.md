@@ -1,4 +1,4 @@
-# # Solutions Deep Dive Student Repository
+# Solutions Deep Dive Student Repository
 
 This student-facing repository contains resources (including exemplars, instructions, and starter code) for the **Solutions** Deep Dive.
 
@@ -11,7 +11,7 @@ To access a module, click on its corresponding link.
 | Module                             | Folder                  |
 |------------------------------------|-------------------------|
 | Introduction to Solutions          | [Link](./introduction/) |
-| Architecture                       | [Link](./architecture/) |
+| Software                           | [Link](./software/)     |
 | C4 Diagrams                        | [Link](./c4/)           |
 | Solutions Project and Presentation | [Link](./project/)      |
 
