@@ -6,8 +6,8 @@ This folder contains resources (including exemplars, instructions, and starter c
 
 To access a resource, click on its corresponding link. 
 
-| Resource                      | Folder                             |
-|-------------------------------|------------------------------------|
-| Intro to React - starter code | [Link](database-research-task.md)  |
-| Intro to React - exercises    | [Link](front-end-research-task.md) |
+| Resource                 | Folder                             |
+|--------------------------|------------------------------------|
+| Database Research Task   | [Link](database-research-task.md)  |
+| Front-end Research Tasks | [Link](front-end-research-task.md) |
 
