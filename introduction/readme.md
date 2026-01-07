@@ -22,7 +22,7 @@ Pairs of students
 
 For the given scenario create the following:
 
-1. A list of question you would want to ask before starting the project
+1. A list of questions you would want to ask before starting the project
 2. A list of potential Actors for your system
 3. A list of events for the system
 4. A list of components for the system
