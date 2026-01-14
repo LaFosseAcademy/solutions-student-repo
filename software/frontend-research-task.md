@@ -5,7 +5,7 @@ Practice selecting appropriate software for a given problem
 
 ### Duration
 
-You have **2 hours** to make as much progress on this task as possible.
+You have **1.5 hours** to make as much progress on this task as possible.
 
 Make sure to take breaks!
 
@@ -38,5 +38,9 @@ Events:
 - Comment on Post: A user comments on a post, affecting the feed display.
 - Follow User: A user follows another user to see their posts in the feed.
 
+1. Create a criteria matrix to compare the related software (Must have, Nice to have, functional and non-functional)
+2. Create a small demonstration to use an a Proof of Concept (PoC) of what might be possible
+3. Make a clear choice of what to use and why
+
 ## Bonus
-- Try and create a diagram of your chosen system using [draw.io](https://app.diagrams.net/) or a tool of your choice as part of your report
+- Try and create a C4 diagram of your chosen system using [draw.io](https://app.diagrams.net/) or a tool of your choice as part of your report

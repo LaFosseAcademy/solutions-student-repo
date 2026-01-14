@@ -48,18 +48,19 @@ A small e-commerce platform called Book Haven is designed to sell books online. 
   - Authentication Component: Handles user logins and registrations.
   - Book Management Component: Manages book listings and inventory.
   - Order Processing Component: Handles order placements and transactions.
-Review System Component: Manages user reviews and ratings.
-Interactions:
-Authentication Component verifies user identity when accessing sensitive operations.
-Order Processing Component interacts with the Payment Gateway to complete transactions.
-Code Diagram (for the Book Management Component)
-Classes/Modules:
-Book: Represents a book object with properties like title, author, and price.
-InventoryManager: Manages stock levels and updates the database.
-Review: Represents a user review, associated with both a book and a user.
-Interactions:
-The InventoryManager accesses the Book class when updating stock.
-The Review class interacts with both the Book and User classes to link reviews correctly.
+  - Review System Component: Manages user reviews and ratings.
 
-## Bonus
-- Try and create a diagram of your chosen system using [draw.io](https://app.diagrams.net/) or a tool of your choice
+Interactions:
+- Authentication Component verifies user identity when accessing sensitive operations.
+- Order Processing Component interacts with the Payment Gateway to complete transactions.
+
+Classes/Modules:
+- Book: Represents a book object with properties like title, author, and price.
+- InventoryManager: Manages stock levels and updates the database.
+- Review: Represents a user review, associated with both a book and a user.
+
+Interactions:
+- The InventoryManager accesses the Book class when updating stock.
+- The Review class interacts with both the Book and User classes to link reviews correctly.
+
+4. Code Diagram (for the Book Management Component)
