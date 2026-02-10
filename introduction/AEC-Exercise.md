@@ -6,7 +6,7 @@ Practice creating architecture diagrams and identifying actors, events and compo
 
 ### Duration
 
-You have **0.5 hours** to make as much progress on this task as possible.
+You have **1.5 hours** to make as much progress on this task as possible.
 
 Make sure to take breaks!
 

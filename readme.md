@@ -14,6 +14,3 @@ To access a module, click on its corresponding link.
 | Software                           | [Link](./software/)     |
 | C4 Diagrams                        | [Link](./c4/)           |
 | Solutions Project and Presentation | [Link](./project/)      |
-
-
-## Other Resources

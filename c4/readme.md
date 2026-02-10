@@ -64,3 +64,5 @@ Interactions:
 - The Review class interacts with both the Book and User classes to link reviews correctly.
 
 4. Code Diagram (for the Book Management Component)
+
+- *Bonus:* Try to create your diagram using [draw.io](https://app.diagrams.net/) and a text based system like [Mermaid](https://mermaid-js.github.io/mermaid/#/)

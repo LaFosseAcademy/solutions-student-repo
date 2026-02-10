@@ -8,6 +8,4 @@ To access a resource, click on its corresponding link.
 
 | Resource                 | Folder                             |
 |--------------------------|------------------------------------|
-| Database Research Task   | [Link](database-research-task.md)  |
-| Front-end Research Tasks | [Link](frontend-research-task.md) |
-
+| Front-end Research Tasks | [Link](frontend-research-task.md)  |
